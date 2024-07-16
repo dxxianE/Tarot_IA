@@ -1,0 +1,1051 @@
+{
+    "description": "tarot cards and basic information about them, as well as references to corresponding scans",
+    "cards": [
+        {
+            "name": "The magician",
+            "img": "el_mago.png",
+            "meanings": {
+                "light": [
+                    "El Mago en el Tarot significa poder creativo y personal",
+                    "Es el primer arcano de la jerarquía y, por lo tanto, es el primer paso en la búsqueda de la sabiduría",
+                    "Esta carta representa el alma del deseo, el primer escalón que debemos subir en busca de la autorrealización."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Priestess",
+            "img": "la_sacerdotisa.png",
+            "meanings": {
+                "light": [
+                    "La Sacerdotisa en el Tarot significa conexión con el mundo espiritual y la energía femenina",
+                    "Representa la intuición, la sabiduría interior y el conocimiento oculto",
+                    "Además, se la relaciona con la capacidad de alcanzar objetivos y convertir en realidad deseos que parecían imposibles."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Empress",
+            "img": "la_emperatriz.png",
+            "meanings": {
+                "light": [
+                    "La Emperatriz en el Tarot significa fertilidad, abundancia y amor maternal",
+                    "Simboliza la creatividad, el éxito creativo y la belleza",
+                    "Encarna el arquetipo de la madre tierra, por lo que se la relaciona con el atractivo femenino",
+                    "Es la personificación del poder femenino."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Emperor",
+            "img": "el_emperador.png",
+            "meanings": {
+                "light": [
+                    "El Emperador en el Tarot significa autoridad, estructura y liderazgo",
+                    "Es la carta que simboliza el poder masculino, la protección y la estabilidad",
+                    "Además, es un arquetipo de sabiduría antigua."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The High Priest",
+            "img": "el_sacerdote.png",
+            "meanings": {
+                "light": [
+                    "El Sumo Sacerdote en el Tarot significa espiritualidad, tradición y conocimiento",
+                    "Representa la memoria, la guía espiritual y la conexión con lo divino",
+                    "Es el arquetipo de la sabiduría y la pureza del alma."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Lovers",
+            "img": "los_amantes.png",
+            "meanings": {
+                "light": [
+                    "Los Enamorados en el Tarot significa el amor, la elección y la armonía en las relaciones",
+                    "Es la representación de la toma de decisiones y la unión espiritual",
+                    "Esta carta personifica el deseo más allá de la razón."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Chariot",
+            "img": "el_carro.png",
+            "meanings": {
+                "light": [
+                    "El Carro en el Tarot significa éxito, avance y control",
+                    "Representa la determinación para superar obstáculos y el logro de metas",
+                    "Es el arquetipo del héroe, capaz de imponer su voluntad sobre el deseo."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "Justice",
+            "img": "la_justicia.png",
+            "meanings": {
+                "light": [
+                    "La Justicia en el Tarot significa equidad, equilibrio y honestidad",
+                    "Simboliza la toma de decisiones justas, la legalidad y la responsabilidad personal",
+                    "Esta carta representa la defensa de lo que es justo y equitativo."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Hermit",
+            "img": "el_hermitaño.png",
+            "meanings": {
+                "light": [
+                    "El Ermitaño en el Tarot significa la autorreflexión, la sabiduría interna y la búsqueda de respuestas",
+                    "Es un símbolo de soledad voluntaria y guía interior",
+                    "Se le relaciona con el Dios del tiempo, Saturno, por lo que se le retrata como un hombre viejo."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Wheel of Fortune",
+            "img": "la_rueda.png",
+            "meanings": {
+                "light": [
+                    "La Rueda de la Fortuna en el Tarot significa cambio, destino y oportunidades",
+                    "Simboliza los ciclos de la vida y los cambios en la suerte",
+                    "Es la encarnación de la indiferencia, inabordable por los destinos de quienes la rodean."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "Strength",
+            "img": "la_fuerza.png",
+            "meanings": {
+                "light": [
+                    "La Fuerza en el Tarot significa fuerza interior, coraje y dominio de los impulsos",
+                    "Simboliza la valentía, la compasión y la superación de obstáculos a través del amor",
+                    "Su poder proviene del coraje",
+                    "Es la cualidad que necesita el hombre para domesticar el ansia de poder."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Hanged Man",
+            "img": "el_colgado.png",
+            "meanings": {
+                "light": [
+                    "El Colgado en el Tarot significa entrega, renuncia y suspensión",
+                    "Representa la necesidad de hacer sacrificios, ver las cosas desde una perspectiva diferente y aceptar la espera",
+                    "Esta carta está relacionada con el dolor y la pérdida del ego que el alma necesita para completar su búsqueda espiritual."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "Death",
+            "img": "la_muerte.png",
+            "meanings": {
+                "light": [
+                    "La Muerte en el Tarot significa cambio, transformación y renacimiento",
+                    "No representa muerte literal",
+                    "Es más bien la señal del final de una etapa y el comienzo de otra",
+                    "Con ella debemos saber que no todo está perdido, quedan otras muchas cartas en la baraja."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "Temperance",
+            "img": "la_templanza.png",
+            "meanings": {
+                "light": [
+                    "La Templanza en el Tarot significa armonía, equilibrio y moderación",
+                    "Simboliza la combinación de distintos elementos en la vida, y la búsqueda de la serenidad interior",
+                    "Esta carta no nos pide que neguemos nuestras emociones ni apetitos, sino que los mantengamos bajo control."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Devil",
+            "img": "el_diablo.png",
+            "meanings": {
+                "light": [
+                    "El Diablo en el Tarot significa tentación, adicciones o cadenas autoimpuestas",
+                    "Representa las fuerzas oscuras internas y la necesidad de liberarse de las limitaciones autoimpuestas",
+                    "Es un recordatorio del dolor que espera a quienes no consiguen librarse de su vinculación a los deseos terrenales."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Tower",
+            "img": "la_torre.png",
+            "meanings": {
+                "light": [
+                    "La Torre en el Tarot significa cambio repentino, destrucción y revelación",
+                    "Simboliza la demolición de estructuras falsas que permiten un renacimiento y un crecimiento real",
+                    "Todo lo material es temporal, eso es lo que viene a recordarnos este arcano mayor."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Star",
+            "img": "la_estrella.png",
+            "meanings": {
+                "light": [
+                    "La Estrella en el Tarot significa esperanza, inspiración e iluminación",
+                    "Es la representación de la conexión con el universo, la fe en el futuro y la guía divina",
+                    "Esta carta inicia el ascenso místico del alma a través de los cuerpos celestes, en búsqueda de iluminación espiritual."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Moon",
+            "img": "la_luna.png",
+            "meanings": {
+                "light": [
+                    "La Luna en el Tarot significa ciclos emocionales, imaginación e ilusiones",
+                    "Representa aspectos emocionales, los sueños y la intuición",
+                    "Simboliza el mundo de lo intuitivo y lo instintivo, así como la fluctuación de las emociones."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Sun",
+            "img": "el_sol.png",
+            "meanings": {
+                "light": [
+                    "El Sol en el Tarot significa vitalidad, energía y alegría",
+                    "Simboliza la claridad, la abundancia y el éxito",
+                    "Junto a la Luna, este arcano representa la fusión de la mente consciente y la mente inconsciente."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "Judgement",
+            "img": "el_juicio.png",
+            "meanings": {
+                "light": [
+                    "El Juicio en el Tarot significa renovación, resurrección y evaluación",
+                    "Simboliza el llamado a la transformación y la toma de decisiones que están basadas en la sabiduría que se ha adquirido."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The World",
+            "img": "el_mundo.png",
+            "meanings": {
+                "light": [
+                    "El Mundo en el Tarot significa la culminación, la integración y la realización",
+                    "Representa el logro de metas, la totalidad y la armonía con el universo",
+                    "Esta carta también es un símbolo de la iluminación de la eternidad."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "The Fool",
+            "img": "el_loco.png",
+            "meanings": {
+                "light": [
+                    "El Loco en el Tarot significa libertad, búsqueda de nuevas experiencias y espontaneidad",
+                    "Simboliza el inicio de un ciclo nuevo, la confianza en el proceso y la valentía con la que te embarcas en un viaje desconocido."
+                ],
+                "shadow": []
+            },
+            "arcana": "Major Arcana",
+            "suit": "Trump"
+        },
+        {
+            "name": "Ace of Cups",
+            "img": "as_copas.png",
+            "meanings": {
+                "light": [
+                    "El As de Copas simboliza la realización de deseos, alegría y amor",
+                    "Indica nuevos comienzos en relaciones o situaciones."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Two of Cups",
+            "img": "2_copas.png",
+            "meanings": {
+                "light": [
+                    "El 2 de Copas representa armonía en relaciones, ya sea amorosas, laborales o amistosas",
+                    "Indica sintonía y complicidad."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Three of Cups",
+            "img": "3_copas.png",
+            "meanings": {
+                "light": [
+                    "El 3 de Copas sugiere eventos especiales y buenos momentos",
+                    "Favorece acuerdos, amor y resolución de problemas."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Four of Cups",
+            "img": "4_copas.png",
+            "meanings": {
+                "light": [
+                    "El 4 de Copas indica insatisfacción y la necesidad de reflexión",
+                    "Sugiere abrirse a nuevas oportunidades y no quedarse estancado."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Five of Cups",
+            "img": "5_copas.png",
+            "meanings": {
+                "light": [
+                    "El 5 de Copas señala decepción, tristeza y la necesidad de superar el dolor",
+                    "Enfócate en recuperar el amor propio."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Six of Cups",
+            "img": "6_copas.png",
+            "meanings": {
+                "light": [
+                    "El 6 de Copas sugiere gratitud y nostalgia",
+                    "Disfruta de las buenas energías y aprende de los recuerdos sin aferrarte al pasado."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Seven of Cups",
+            "img": "7_copas.png",
+            "meanings": {
+                "light": [
+                    "El 7 de Copas simboliza sueños e ilusiones",
+                    "Advierte contra perderse en fantasías y recomienda actuar para realizarlos."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Eight of Cups",
+            "img": "8_copas.png",
+            "meanings": {
+                "light": [
+                    "El 8 de Copas implica pérdida y cambio",
+                    "Acepta el final de una etapa y busca la renovación, dejando atrás resentimientos."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Nine of Cups",
+            "img": "9_copas.png",
+            "meanings": {
+                "light": [
+                    "El 9 de Copas representa logros y satisfacción próxima",
+                    "Es una carta positiva que sugiere la realización de deseos."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Ten of Cups",
+            "img": "10_copas.png",
+            "meanings": {
+                "light": [
+                    "El 10 de Copas indica momentos felices y el final exitoso de un ciclo",
+                    "Sugiere la resolución de problemas y la obtención de lo deseado."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Jack of Cups",
+            "img": "sota_copas.png",
+            "meanings": {
+                "light": [
+                    "La Sota de Copas indica energía positiva y entusiasmo",
+                    "Es buen momento para nuevos proyectos, relaciones y amistades."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Knight of Cups",
+            "img": "caballo_copas.png",
+            "meanings": {
+                "light": [
+                    "El Caballero de Copas sugiere la llegada de noticias importantes",
+                    "Reflexiona sobre tus deseos y no te dejes llevar por emociones."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Queen of Cups",
+            "img": "reina_copas.png",
+            "meanings": {
+                "light": [
+                    "La Reina de Copas simboliza tranquilidad y comprensión",
+                    "Representa a una mujer afectuosa que puede ayudarte o tus propias cualidades de compasión y amor."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "King of Cups",
+            "img": "rey_copas.png",
+            "meanings": {
+                "light": [
+                    "El Rey de Copas indica control emocional y claridad",
+                    "Sugiere sabiduría y tranquilidad para resolver problemas y tomar decisiones acertadas."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Cups"
+        },
+        {
+            "name": "Ace of Clubs",
+            "img": "as_bastos.png",
+            "meanings": {
+                "light": [
+                    "El As de Tréboles simboliza nuevos comienzos llenos de creatividad y entusiasmo",
+                    "Puede ser una nueva relación, trabajo o proyecto."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Two of Clubs",
+            "img": "2_bastos.png",
+            "meanings": {
+                "light": [
+                    "El 2 de Tréboles significa planificación y decisiones",
+                    "Indica ansiedad y la necesidad de seguir tus instintos."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Three of Clubs",
+            "img": "3_bastos.png",
+            "meanings": {
+                "light": [
+                    "El 3 de Tréboles sugiere tomar la iniciativa y actuar con coraje",
+                    "Indica éxito si se actúa con determinación."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Four of Clubs",
+            "img": "4_bastos.png",
+            "meanings": {
+                "light": [
+                    "El 4 de Tréboles anuncia buenas sorpresas y eventos alegres",
+                    "Indica estabilidad en cuestiones domésticas."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Five of Clubs",
+            "img": "5__bastos.png",
+            "meanings": {
+                "light": [
+                    "El 5 de Tréboles advierte sobre competencia y conflictos",
+                    "Replantea tus estrategias para evitar obstáculos."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Six of Clubs",
+            "img": "6_bastos.png",
+            "meanings": {
+                "light": [
+                    "El 6 de Tréboles indica éxito y superación de problemas",
+                    "Sugiere disfrutar de la victoria y mantener el autocontrol."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Seven of Clubs",
+            "img": "7_bastos.png",
+            "meanings": {
+                "light": [
+                    "El 7 de Tréboles implica ser puesto a prueba",
+                    "Mantén tu integridad y ética para alcanzar recompensas."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Eight of Clubs",
+            "img": "8_bastos.png",
+            "meanings": {
+                "light": [
+                    "El 8 de Tréboles simboliza acción y cambio",
+                    "Indica decisiones rápidas y la posibilidad de nuevas oportunidades."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Nine of Clubs",
+            "img": "9_bastos.png",
+            "meanings": {
+                "light": [
+                    "El 9 de Tréboles sugiere superar obstáculos con paciencia y sabiduría",
+                    "Indica que el esfuerzo será recompensado."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Ten of Clubs",
+            "img": "10_bastos.png",
+            "meanings": {
+                "light": [
+                    "El 10 de Tréboles significa sobrecarga y la necesidad de cerrar ciclos",
+                    "Advierte sobre éxitos temporales y la importancia de cumplir responsabilidades."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Jack of Clubs",
+            "img": "sota_bastos.png",
+            "meanings": {
+                "light": [
+                    "La Sota de Tréboles indica buenas noticias y energía positiva para nuevos comienzos y realizaciones."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Knight of Clubs",
+            "img": "caballo_bastos.png",
+            "meanings": {
+                "light": [
+                    "El Caballero de Tréboles sugiere energías renovadas y la disposición para aventurarse en lo desconocido",
+                    "Actúa con cautela."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Queen of Clubs",
+            "img": "reina_bastos.png",
+            "meanings": {
+                "light": [
+                    "La Reina de Tréboles simboliza determinación y coraje para lograr metas",
+                    "Puede representar a una mujer que te ayudará."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "King of Clubs",
+            "img": "rey_bastos.png",
+            "meanings": {
+                "light": [
+                    "El Rey de Tréboles indica poder de decisión y éxito en cualquier situación",
+                    "Puede representar estabilidad financiera y la llegada de alguien en posición de poder."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Wands"
+        },
+        {
+            "name": "Ace of Spades",
+            "img": "as_espadas.png",
+            "meanings": {
+                "light": [
+                    "El As de Espadas simboliza claridad mental y nuevos comienzos",
+                    "Ten cuidado con la brutal sinceridad."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Two of Spades",
+            "img": "2_Espadas.png",
+            "meanings": {
+                "light": [
+                    "El 2 de Espadas indica conflicto interno y la necesidad de encontrar paz",
+                    "Evita decisiones precipitadas y busca equilibrio."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Three of Spades",
+            "img": "3_espadas.png",
+            "meanings": {
+                "light": [
+                    "El 3 de Espadas simboliza dolor y tristeza",
+                    "Es necesario ser honesto contigo mismo y buscar equilibrio."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Four of Spades",
+            "img": "4_espadas.png",
+            "meanings": {
+                "light": [
+                    "El 4 de Espadas indica la necesidad de descanso y reflexión tras un conflicto",
+                    "Recupera energías antes de tomar decisiones."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Five of Spades",
+            "img": "5_espadas.png",
+            "meanings": {
+                "light": [
+                    "El 5 de Espadas señala conflictos y negatividad",
+                    "Trata de aclarar tu mente y evitar confrontaciones innecesarias."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Six of Spades",
+            "img": "6_espadas.png",
+            "meanings": {
+                "light": [
+                    "El 6 de Espadas sugiere una transición positiva",
+                    "Deja atrás el equipaje emocional y sigue adelante."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Seven of Swords",
+            "img": "7_espadas.png",
+            "meanings": {
+                "light": [
+                    "El 7 de Espadas advierte sobre mentiras y engaños",
+                    "Sé honesto contigo mismo y estate alerta a las intenciones de los demás."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Eight of Swords",
+            "img": "8_Espadas.png",
+            "meanings": {
+                "light": [
+                    "El 8 de Espadas simboliza obstáculos y sufrimiento",
+                    "Indica un momento desfavorable, pero superable."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Nine of Swords",
+            "img": "9_espadas.png",
+            "meanings": {
+                "light": [
+                    "El 9 de Espadas representa angustia y estrés",
+                    "Mantén la calma y enfócate en superar las dificultades."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Ten of Swords",
+            "img": "10_Espadas.png",
+            "meanings": {
+                "light": [
+                    "El 10 de Espadas indica el fin de una etapa dolorosa",
+                    "Supera el dolor y avanza hacia nuevas oportunidades."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Page of Swords",
+            "img": "sota_espadas.png",
+            "meanings": {
+                "light": [
+                    "La Sota de Espadas sugiere atención y enfrentamiento a situaciones inesperadas con sabiduría",
+                    "Evita decisiones precipitadas."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Knight of Swords",
+            "img": "caballo_espadas.png",
+            "meanings": {
+                "light": [
+                    "El Caballero de Espadas implica acciones impulsivas y la llegada de una persona con intenciones poco claras",
+                    "Mantén la claridad y la verdad."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Queen of Swords",
+            "img": "reina_Espadas.png",
+            "meanings": {
+                "light": [
+                    "La Reina de Espadas indica racionalidad y la presencia de una mujer sabia o crítica en tu vida",
+                    "Usa la razón para resolver asuntos."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "King of Swords",
+            "img": "rey_Espadas.png",
+            "meanings": {
+                "light": [
+                    "El Rey de Espadas simboliza poder intelectual y autoridad",
+                    "Enfrenta situaciones de forma objetiva y racional, siguiendo el orden y las reglas."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Swords"
+        },
+        {
+            "name": "Ace of pentacles",
+            "img": "as_oros.png",
+            "meanings": {
+                "light": [
+                    "El As de Oros indica buenos augurios relacionados con la carrera, prosperidad y finanzas",
+                    "Puede significar ascensos, aumentos de sueldo o dinero inesperado",
+                    "En temas del corazón, sugiere un nuevo amor o estabilidad en la relación actual."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Two of Pentacles",
+            "img": "2_oros.png",
+            "meanings": {
+                "light": [
+                    "El 2 de Oros representa dualidad y la necesidad de equilibrio",
+                    "Indica la gestión de dos tareas o decisiones importantes",
+                    "La resolución honesta y justa de estos problemas influirá positivamente en el futuro."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Three of Pentacles",
+            "img": "3_oros.png",
+            "meanings": {
+                "light": [
+                    "El 3 de Oros sugiere que tus talentos están siendo bien aprovechados y que el trabajo en equipo es beneficioso",
+                    "Indica que tu esfuerzo y perseverancia pronto darán frutos",
+                    "Una tercera persona puede ser crucial para ayudarte."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Four of Pentacles",
+            "img": "4_oros.png",
+            "meanings": {
+                "light": [
+                    "El 4 de Oros significa miedo a perder o cambiar",
+                    "Sugiere que estás aferrado a la seguridad, lo cual puede ser positivo, pero también puede impedirte avanzar",
+                    "Invita a reflexionar sobre tus motivaciones y a relajarte."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Five of Pentacles",
+            "img": "5_oros.png",
+            "meanings": {
+                "light": [
+                    "El 5 de Oros indica dificultades financieras y sentimientos de abandono",
+                    "Sugiere un período desafiante, especialmente en temas económicos o relaciones."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Six of Pentacles",
+            "img": "6_oros.png",
+            "meanings": {
+                "light": [
+                    "El 6 de Oros indica mejora en situaciones difíciles",
+                    "Sugiere generosidad y recuperación del equilibrio, tanto en finanzas como en relaciones."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Seven of Pentacles",
+            "img": "7_oros.png",
+            "meanings": {
+                "light": [
+                    "El 7 de Oros sugiere evaluar los logros antes de seguir adelante",
+                    "Indica que tus esfuerzos darán frutos si has tomado decisiones correctas",
+                    "En relaciones, puede indicar una pausa necesaria."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Eight of Pentacles",
+            "img": "8_oros.png",
+            "meanings": {
+                "light": [
+                    "El 8 de Oros indica que estás en el camino correcto",
+                    "Sugiere que tu esfuerzo y dedicación están a punto de ser recompensados",
+                    "La carta enfatiza compromiso y concentración en el objetivo final."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Nine of Pentacles",
+            "img": "9_oros.png",
+            "meanings": {
+                "light": [
+                    "El 9 de Oros simboliza éxito y recompensas por tu esfuerzo",
+                    "Indica riqueza y abundancia, tanto material como interior",
+                    "Sugiere logros y armonía en la situación actual."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Ten of Pentacles",
+            "img": "10_oros.png",
+            "meanings": {
+                "light": [
+                    "El 10 de Oros representa la realización de deseos y el final exitoso de un ciclo",
+                    "Indica estabilidad y felicidad en relaciones, así como logros en el trabajo y finanzas."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Jack of Coins",
+            "img": "sota_oros.png",
+            "meanings": {
+                "light": [
+                    "La Sota de Oros sugiere que encontrarás un buen camino para resolver la situación actual",
+                    "Representa un mensajero y sugiere que pronto obtendrás respuestas",
+                    "También puede indicar la llegada de alguien que te ayudará."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Knight of Coins",
+            "img": "caballo_oros.png",
+            "meanings": {
+                "light": [
+                    "El Caballero de Oros indica perseverancia y esfuerzo para lograr objetivos",
+                    "Sugiere estabilidad, seguridad y responsabilidad",
+                    "En relaciones, puede implicar estabilidad financiera sin tanta pasión."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "Queen of Coins",
+            "img": "reina_oros.png",
+            "meanings": {
+                "light": [
+                    "La Reina de Oros sugiere abundancia y fertilidad",
+                    "Indica que tus esfuerzos y decisiones han asegurado estabilidad y comodidad."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        },
+        {
+            "name": "King of Coins",
+            "img": "rey_oros.png",
+            "meanings": {
+                "light": [
+                    "El Rey de Oros indica éxito y logro de objetivos",
+                    "Sugiere un ascenso en el trabajo o una oportunidad importante",
+                    "Indica control, confianza y disciplina para realizar tus deseos."
+                ],
+                "shadow": []
+            },
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles"
+        }
+    ]
+}
